@@ -1,4 +1,4 @@
-package com.gsltc.holamundo;
+package com.gsltc.holamundo.model;
 
 import java.util.Date;
 

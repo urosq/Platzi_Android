@@ -52,9 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Toast.makeText(getBaseContext(), "Felicidades tu nombres es "+ nombre, Toast.LENGTH_LONG).show();
-        if (nombre ==""){
-            Toast.makeText(getBaseContext(),"Favor de ingresar un nombre", Toast.LENGTH_LONG).show();
-        }
+
     }
 
     @Override
